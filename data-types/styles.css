@@ -1,0 +1,23 @@
+body{
+    background-image: url(image.jpg);
+}
+
+table {
+    border: 2px solid white; 
+     border-collapse: collapse;
+}
+
+tr, td {
+    border: 2px solid white;  
+    text-decoration: none;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+table{
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+}
